@@ -79,7 +79,7 @@ Vendas por Categoria
 
 Vendas por Gênero
 
-![Vendas por Gênero](vendas_por_genero.png)
+![Vendas por Gênero](https://github.com/Adriano-Bispo/Projeto-de-Integra-o-SQL-Server-e-Excel/blob/main/G%C3%8ANERO.PNG)
 
 Conclusão
 

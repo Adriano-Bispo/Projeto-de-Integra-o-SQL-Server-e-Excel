@@ -59,7 +59,7 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 
 Dashboard Resultante
 
-![Dashboard de Vendas](dashboard.png)
+![Dashboard de Vendas](https://github.com/Adriano-Bispo/Projeto-de-Integra-o-SQL-Server-e-Excel/blob/main/RELAT%C3%93RIO%20DE%20RESULTADOS.PNG)
 
 Screenshots e Exemplos
 

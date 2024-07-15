@@ -71,7 +71,7 @@ Receita Total versus Custo Total por País
 
 Vendas por Mês
 
-![Vendas por Mês](vendas_por_mes.png)
+![Vendas por Mês](https://github.com/Adriano-Bispo/Projeto-de-Integra-o-SQL-Server-e-Excel/blob/main/RECEITA.PNG)
 
 Vendas por Categoria
 

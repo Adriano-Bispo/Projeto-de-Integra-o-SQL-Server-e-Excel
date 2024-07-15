@@ -67,7 +67,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 Receita Total versus Custo Total por País
 
-![Receita Total versus Custo Total por País](receita_vs_custo_pais.png)
+![Receita Total versus Custo Total por País](https://github.com/Adriano-Bispo/Projeto-de-Integra-o-SQL-Server-e-Excel/blob/main/RECEITACUSTO.PNG)
 
 Vendas por Mês
 

@@ -75,7 +75,7 @@ Vendas por Mês
 
 Vendas por Categoria
 
-![Vendas por Categoria](vendas_por_categoria.png)
+![Vendas por Categoria](https://github.com/Adriano-Bispo/Projeto-de-Integra-o-SQL-Server-e-Excel/blob/main/CATEGORIA.PNG)
 
 Vendas por Gênero
 
